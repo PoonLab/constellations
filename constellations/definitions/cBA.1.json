@@ -23,7 +23,7 @@
         "del:6513:3",
         "orf1ab:A2710T",
         "orf1ab:L3674F",
-        "orf1ab:SGF3675-",
+        "del:11288:9",
         "orf1ab:I3758V",
         "nuc:T13195C",
         "nuc:C15240T",
@@ -43,7 +43,8 @@
         "nuc:C25000T",
         "nuc:C25584T",
         "m:D3G",
-        "n:RG203KR"
+        "n:R203K",
+        "n:G204R"
     ],
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
