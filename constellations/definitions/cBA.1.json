@@ -39,9 +39,7 @@
         "spike:T547K",
         "spike:N856K",
         "spike:L981F",
-        "m:D3G",
-        "n:R203K",
-        "n:G204R"
+        "m:D3G"
     ],
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
