@@ -41,9 +41,9 @@
         "spike:T376A",
         "spike:D405N",
         "spike:R408S",
-        "nuc:C26060T",
+        "orf3a:T223I",
         "nuc:C26858T",
-        "orf6:D61L",
+        "nuc:T27384C",
         "n:S413R"        
     ],
     "note": "Unique mutations for sublineage",
