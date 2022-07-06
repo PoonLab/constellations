@@ -19,15 +19,12 @@
     ],
     "sites": [
         "orf1a:N4060S",
-        "orf1a:P1640S",
         "orf1a:S1221L",
-        "orf1b:G662S",
         "e:T11A",
         "spike:K147E",
         "spike:F157L",
         "spike:W152R",
         "spike:I210V",
-        "spike:G446S",
         "spike:N460K",
         "spike:G257S"    
     ],
