@@ -18,9 +18,7 @@
         "BA.2"
     ],
     "sites": [
-        "orf1ab:L3201F",
-        "nuc:C26858T",
-        "nuc:T27384C" 
+        "orf1ab:L3201F" 
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
