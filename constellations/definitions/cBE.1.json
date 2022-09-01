@@ -6,12 +6,12 @@
     "type": "variant",
     "variant": {
         "Pango_lineages": [
-            "BA.5"
+            "BE.1"
         ],
         "WHO_label": "Omicron",
         "mrca_lineage": "BE.1",
         "lineage_name": "BE.1",
-        "parent_lineage": "B.1.1.529.5.3.1.1",
+        "parent_lineage": "BA.5",
         "PHE_label": "",
         "representative_genome": ""
     },
