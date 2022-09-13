@@ -20,8 +20,8 @@
         ""
     ],
     "sites": [
-      "orf1ab:Q376K",
-      "orf1ab:M233I",
+      "orf1a:Q556K",
+      "orf1b:M1156I",
       "n:E136D"
     ],
     "note": "Unique mutations for sublineage",
