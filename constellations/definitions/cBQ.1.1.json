@@ -20,8 +20,14 @@
         ""
     ],
     "sites": [
-      "spike:R346T", 
-      "ORF1b:N1191S"
+      {
+        "nt": "spike:R346T",
+        "aa": "G22599C" 
+      }, 
+      {
+        "nt": "ORF1b:N1191S",
+        "aa": "A17039G"
+      }
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
