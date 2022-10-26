@@ -18,18 +18,54 @@
         "BA.2.75"
     ],
     "sites": [
-        "orf1a:N4060S",
-        "orf1a:P1640S",
-        "orf1a:S1221L",
-        "orf1b:G662S",
-        "e:T11A",
-        "spike:K147E",
-        "spike:F157L",
-        "spike:W152R",
-        "spike:I210V",
-        "spike:G446S",
-        "spike:N460K",
-        "spike:G257S"    
+        {
+            "nt": "A12444G",
+            "aa": "orf1a:N4060S"
+        },
+        {
+            "nt": "C5183T",
+            "aa": "orf1a:P1640S"
+        },
+        {
+            "nt": "C3927T",
+            "aa": "orf1a:S1221L"
+        },
+        {
+            "nt": "G15451A",
+            "aa": "orf1b:G662S"
+        },
+        {
+            "nt": "A26275G",
+            "aa": "e:T11A"
+        },
+        {
+            "nt": "A22001G",
+            "aa": "spike:K147E"
+        },
+        {
+            "nt": "C22033A",
+            "aa": "spike:F157L"
+        },
+        {
+            "nt": "T22016C",
+            "aa": "spike:W152R"
+        },
+        {
+            "nt": "A22190G",
+            "aa": "spike:I210V"
+        },
+        {
+            "nt": "G22898A",
+            "aa": "spike:G446S"
+        },
+        {
+            "nt": "T22942G",
+            "aa": "spike:N460K"
+        },
+        {
+            "nt": "G22331A",
+            "aa": "spike:G257S"
+        }  
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
