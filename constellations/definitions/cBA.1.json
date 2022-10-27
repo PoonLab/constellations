@@ -24,7 +24,7 @@
         },
         {
             "nt": "nuc:T5386G",
-            "aa": "orf1a:A1708D"
+            "aa": ""
         },
         {
             "nt": "del:6513:3",
@@ -35,11 +35,11 @@
             "aa": "orf1ab:A2710T"
         },
         {
-            "nt": "",
+            "nt": "G11287T",
             "aa": "orf1ab:L3674F"
         },
         {
-            "nt": "",
+            "nt": "del:11288:9",
             "aa": "orf1ab:SGF3675-"
         },
         {
@@ -48,11 +48,11 @@
         },
         {
             "nt": "nuc:T13195C",
-            "aa": "orf1a:V4310V"
+            "aa": ""
         },
         {
             "nt": "nuc:C15240T",
-            "aa": "orf1ab:N591N"
+            "aa": ""
         },
         {
             "nt": "C21762T",
@@ -119,8 +119,12 @@
             "aa": "m:D3G"
         },
         {
-            "nt": ["G28882A", "G28883C", "G28881A"],
-            "aa": "n:RG203KR"
+            "nt": ["G28881A", "G28882A"],
+            "aa": "n:R203K"
+        },
+	{
+            "nt": "G28883C",
+            "aa": "n:G204R"
         }
     ],
     "note": "Unique mutations for sublineage",
