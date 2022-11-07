@@ -35,14 +35,6 @@
             "aa": "orf1ab:A2710T"
         },
         {
-            "nt": "G11287T",
-            "aa": "orf1ab:L3674F"
-        },
-        {
-            "nt": "-11288.9",
-            "aa": "del:11288:9"
-        },
-        {
             "nt": "A11537G",
             "aa": "orf1ab:I3758V"
         },
@@ -59,10 +51,6 @@
             "aa": "spike:A67V"
         },
         {
-            "nt": "-21765.6",
-            "aa": "del:21765:6"
-        },
-        {
             "nt": "C21846T",
             "aa": "spike:T95I"
         },
@@ -75,20 +63,12 @@
             "aa": "del:22194:3"
         },
         {
-            "nt": "",
+            "nt": "+22205.GAGCCAGAC",
             "aa": "nuc:22205+GAGCCAGAA"
-        },
-        {
-            "nt": "T22673C",
-            "aa": "spike:S371L"
         },
         {
             "nt": "G22898A",
             "aa": "spike:G446S"
-        },
-        {
-            "nt": "A23040G",
-            "aa": "spike:Q493R"
         },
         {
             "nt": "G23048A",
@@ -107,24 +87,8 @@
             "aa": "spike:L981F"
         },
         {
-            "nt": "C25000T",
-            "aa": "nuc:C25000T"
-        },
-        {
-            "nt": "C25584T",
-            "aa": "nuc:C25584T"
-        },
-        {
             "nt": "A26530G",
             "aa": "m:D3G"
-        },
-        {
-            "nt": "G28881A,G28882A",
-            "aa": "n:R203K"
-        },
-	{
-            "nt": "G28883C",
-            "aa": "n:G204R"
         }
     ],
     "note": "Unique mutations for sublineage",
