@@ -18,24 +18,78 @@
         "BA.1"
     ],
     "sites": [
-        "orf1ab:K856R",
-        "nuc:T5386G",
-        "del:6513:3",
-        "orf1ab:A2710T",
-        "orf1ab:I3758V",
-        "nuc:T13195C",
-        "nuc:C15240T",
-        "spike:A67V",
-        "spike:T95I",
-        "del:21987:9",
-        "del:22194:3",
-        "nuc:22205+GAGCCAGAA",
-        "spike:G446S",
-        "spike:G496S",
-        "spike:T547K",
-        "spike:N856K",
-        "spike:L981F",
-        "m:D3G"
+        {
+            "nt": "A2832G",
+            "aa": "orf1ab:K856R"
+        },
+        {
+            "nt": "T5386G",
+            "aa": "nuc:T5386G"
+        },
+        {
+            "nt": "-6513.3",
+            "aa": "del:6513:3"
+        },
+        {
+            "nt": "G8393A",
+            "aa": "orf1ab:A2710T"
+        },
+        {
+            "nt": "A11537G",
+            "aa": "orf1ab:I3758V"
+        },
+        {
+            "nt": "T13195C",
+            "aa": "nuc:T13195C"
+        },
+        {
+            "nt": "C15240T",
+            "aa": "nuc:C15240T"
+        },
+        {
+            "nt": "C21762T",
+            "aa": "spike:A67V"
+        },
+        {
+            "nt": "C21846T",
+            "aa": "spike:T95I"
+        },
+        {
+            "nt": "-21987.9",
+            "aa": "del:21987:9"
+        },
+        {
+            "nt": "-22194.3",
+            "aa": "del:22194:3"
+        },
+        {
+            "nt": "+22205.GAGCCAGAC",
+            "aa": "nuc:22205+GAGCCAGAA"
+        },
+        {
+            "nt": "G22898A",
+            "aa": "spike:G446S"
+        },
+        {
+            "nt": "G23048A",
+            "aa": "spike:G496S"
+        },
+        {
+            "nt": "C23202A",
+            "aa": "spike:T547K"
+        },
+        {
+            "nt": "C24130A",
+            "aa": "spike:N856K"
+        },
+        {
+            "nt": "C24503T",
+            "aa": "spike:L981F"
+        },
+        {
+            "nt": "A26530G",
+            "aa": "m:D3G"
+        }
     ],
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",

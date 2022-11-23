@@ -18,8 +18,14 @@
         "BA.4"
     ],
     "sites": [
-      "orf7b:L11F",
-      "n:P151S"
+      {
+        "nt": "G27788T",
+        "aa": "orf7b:L11F"
+      }, 
+      {
+        "nt": "C28724T",
+        "aa": "n:P151S"
+      }
     ],
     "note": "Unique mutations for sublineage",
     "rules": {

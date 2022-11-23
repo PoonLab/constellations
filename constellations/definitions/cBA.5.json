@@ -18,8 +18,14 @@
         "BA.5"
     ],
     "sites": [
-      "nuc:C27889T",
-      "m:D3N"
+      {
+        "nt": "C27889T",
+        "aa": "nuc:C27889T"
+      }, 
+      {
+        "nt": "G26529A",
+        "aa": "m:D3N"
+      }
     ],
     "note": "Unique mutations for sublineage",
     "rules": {

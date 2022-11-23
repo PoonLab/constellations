@@ -19,9 +19,15 @@
         "BQ.1.1",
         ""
     ],
-    "sites": [
-      "spike:R346T", 
-      "ORF1b:N1191S"
+    "sites": [ 
+      {
+        "nt": "A17039G",
+        "aa": "ORF1b:N1191S"
+      },
+      {
+        "nt": "T22942A",
+        "aa": "spike:N460K"
+      }
     ],
     "note": "Unique mutations for sublineage",
     "rules": {

@@ -17,33 +17,111 @@
     "tags": [
         "BA.2"
     ],
-    "sites": [ 
-        "orf1ab:S135R",
-	"orf1ab:T842I",
-        "orf1ab:G1307S",
-        "nuc:C4321T",
-        "orf1ab:L3027F",
-        "nuc:A9424G",
-        "orf1ab:T3090I",
-        "orf1ab:L3201F",
-        "nuc:C10198T",
-        "nuc:G10447A",
-        "nuc:C12880T",
-        "nuc:C15714T",
-        "orf1ab:R5716C",
-        "orf1ab:T6564I",
-        "nuc:A20055G",
-        "spike:T19I",
-        "del:21633:9",
-        "nuc:T22200G",
-        "spike:S371F",
-        "spike:T376A",
-        "spike:D405N",
-        "spike:R408S",
-        "orf3a:T223I",
-        "nuc:C26858T",
-        "nuc:T27384C",
-        "n:S413R"        
+    "sites": [
+        {
+            "nt": "T670G",
+            "aa": "orf1ab:S135R"
+        },
+        {
+            "nt": "C2790T",
+            "aa": "orf1ab:T842I"
+        },
+        {
+            "nt": "G4184A",
+            "aa": "orf1ab:G1307S"
+        },
+        {
+            "nt": "C4321T",
+            "aa": "nuc:C4321T"
+        },
+        {
+            "nt": "C9344T",
+            "aa": "orf1ab:L3027F"
+        },
+        {
+            "nt": "A9424G",
+            "aa": "nuc:A9424G"
+        },
+        {
+            "nt": "C9534T",
+            "aa": "orf1ab:T3090I"
+        },
+        {
+            "nt": "C9866T",
+            "aa": "orf1ab:L3201F"
+        },
+        {
+            "nt": "C10198T",
+            "aa": "nuc:C10198T"
+        },
+        {
+            "nt": "G10447A",
+            "aa": "nuc:G10447A"
+        },
+        {
+            "nt": "C12880T",
+            "aa": "nuc:C12880T"
+        },
+        {
+            "nt": "C15714T",
+            "aa": "nuc:C15714T"
+        },
+        {
+            "nt": "C17410T",
+            "aa": "orf1ab:R5716C"
+        },
+        {
+            "nt": "C19955T",
+            "aa": "orf1ab:T6564I"
+        },
+        {
+            "nt": "A20055G",
+            "aa": "nuc:A20055G"
+        },
+        {
+            "nt": "C21618T",
+            "aa": "spike:T19I"
+        },
+        {
+            "nt": "-21633.9",
+            "aa": "del:21633:9"
+        },
+        {
+            "nt": "T22200G",
+            "aa": "spike:V213G"
+        },
+        {
+            "nt": "C22674T",
+            "aa": "spike:S371F"
+        },
+        {
+            "nt": "A22688G",
+            "aa": "spike:T376A"
+        },
+        {
+            "nt": "G22775A",
+            "aa": "spike:D405N"
+        },
+        {
+            "nt": "A22786T",
+            "aa": "spike:R408S"
+        },
+        {
+            "nt": "C26060T",
+            "aa": "orf3a:T223I"
+        },
+        {
+            "nt": "C26858T",
+            "aa": "nuc:C26858T"
+        },
+        {
+            "nt": "G27382C,A27383T,T27384C",
+            "aa": "orf6:D61L"
+        },
+        {
+            "nt": "A29510C",
+            "aa": "n:S413R"
+        }       
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
