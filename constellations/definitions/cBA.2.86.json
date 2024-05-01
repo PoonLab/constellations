@@ -1,0 +1,71 @@
+{
+    "label": "Omicron (BA.2.86)",
+    "description": "BA.2.86 lineage defining mutations",
+    "sources": [],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "BA.2.86"
+        ],
+        "WHO_label": "Omicron",
+        "mrca_lineage": "BA.2.86",
+        "lineage_name": "BA.2.86",
+        "parent_lineage": "BA.2",
+        "representative_genome": ""
+    },
+    "tags": [
+        "BA.2.86"
+    ],
+    "sites": [
+        {
+            "nt": "A22556G",
+            "aa": "spike:I332V"
+        },
+        {
+            "nt": "A26610G",
+            "aa": "nuc:A26610G"
+        },
+        {
+            "nt": "A7842G",
+            "aa": "orf1a:N2526S"
+        },
+        {
+            "nt": "C21711T",
+            "aa": "spike:S50L"
+        },
+        {
+            "nt": "C22353A",
+            "aa": "spike:A264D"
+        },
+        {
+            "nt": "C22916T",
+            "aa": "spike:L452W"
+        },
+        {
+            "nt": "C28958A",
+            "aa": "n:Q229K"
+        },
+        {
+            "nt": "C897A",
+            "aa": "orf1a:A211D"
+        },
+        {
+            "nt": "G11042T",
+            "aa": "orf1a:V3593F"
+        },
+        {
+            "nt": "G21941T",
+            "aa": "nuc:G21941T"
+        },
+        {
+            "nt": "T15756A",
+            "aa": "nuc:G21941T"
+        },
+        {
+            "nt": "T22896A",
+            "aa": "spike:V445H"
+        }
+    ],
+    "note": "Unique mutations for sublineage",
+    "rules": {}
+}
